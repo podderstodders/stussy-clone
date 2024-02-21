@@ -76,7 +76,7 @@ a[role="link"] {
     text-decoration: none;
     word-break: keep-all;
     color: black;
-    
+    cursor: pointer;
 }
 
 

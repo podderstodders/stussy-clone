@@ -437,10 +437,12 @@ ul[role="sublist"] a:hover {
     margin-inline: auto;
     padding: 0.5em 1em;
     overflow: scroll;
+
 }
 
 .footer-layout {
     border-top: 1px solid #ccc;
+   
 }
 
 .flex-end {

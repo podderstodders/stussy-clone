@@ -183,6 +183,8 @@ ul[role="sublist"] a:hover {
     max-width: 1440px;
     margin-inline: auto;
     padding: 0.5em 1em;
+    overflow: scroll;
+
 }
 
 .footer-layout {

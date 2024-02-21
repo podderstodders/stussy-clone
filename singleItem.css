@@ -29,9 +29,11 @@
 .header-layout > * {
     flex-shrink: 0;
 }
-
+.header-layout #header__list {
+    margin-right: 1em;
+}
 /*these are hidden for mobile */
-.header-layout #header__list,
+
 .header-layout #header__tabletActions {
     display: none;
 }
@@ -79,6 +81,7 @@ ul[role="list"] a:hover{
     .header-layout #header__list {
         margin-left: 1.5em;
         flex: 1;
+        margin-right: 0;
     }
 
 }

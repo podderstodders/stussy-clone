@@ -201,7 +201,7 @@ ul[role="sublist"] a:hover {
     left: 47%;
     transform: translate(-50%, -50%);
     
-    content: url('../assets/logo.svg');
+    content: url('./logo.svg');
    
     opacity: 0;
 }
